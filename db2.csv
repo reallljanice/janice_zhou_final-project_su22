@@ -1,0 +1,5 @@
+name,age,sex,quote,date,diabetes_prob,cardio_prob
+Jason,41,0,1500,06/16/2020,1.0,1.0
+Kevin,35,0,1000,03/02/2019,0.2,0.8
+Katie,36,1,700,02/28/2019,0.6,0.1
+Clement,41,0,1700,2022/08/26,1.0,1.0
